@@ -21,11 +21,12 @@ $author ='Mae West';
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- Head code excluded for brevity -->
+    <title>Assignement1</title>
 </head>
 <body>
 <h1 style="color:blue;">Eduardo de la Pena</h1>
 <img src='me.jpg' alt='Me'>
+<h2 style="color:blue;">About Me</h2>
 <p>I have a Bacherlor's in animation and Digital Art and I'm</p>
 <p>taking this course because since I already know html, css</p>
 <p>js I want to know the comlete web knowledge, so only server</p>
